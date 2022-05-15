@@ -1,5 +1,5 @@
 # Recriando-a-Interface-do-Netflix-
-usei: HTML e CSS
+usei: HTML, JS e CSS
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Thasyz/Recriando-a-Interface-do-Netflix-?color=orange&logoColor=oragnge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Thasyz/Recriando-a-Interface-do-Netflix-?color=orange)
 ![164150083_10215739120704507_8063744473872842047_n](https://user-images.githubusercontent.com/18168327/168489978-e50d9425-c0ca-41ad-88d8-86253aa01ae0.jpg)
